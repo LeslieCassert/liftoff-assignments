@@ -16,16 +16,16 @@ Add medication - a user will be able to add medication, dosage, script number,pi
 Edit existing medication - user will have the ability to edit or remove the the medication and properties. 
 
 ### Technologies
-Java
-Thymeleaf
-Bootstrap
-Gradle
-HTML/CSS
+Java//
+Thymeleaf//
+Bootstrap//
+Gradle//
+HTML/CSS//
 SpringBoot
 
 ### What I'll Have to Learn
 
-Session cookies in Java
-Possible JavaScript
-More in depth BootStrap
+Session cookies in Java//
+Possible JavaScript//
+More in depth BootStrap//
 Going to try to give it a shot at integrating outside APIs
