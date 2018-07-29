@@ -12,4 +12,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-[Trells Project Tracker](https://trello.com/b/nPTZNMrX/capstone-project)
+[Trello Project Tracker](https://trello.com/b/nPTZNMrX/capstone-project)
